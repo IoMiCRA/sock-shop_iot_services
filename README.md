@@ -1,6 +1,6 @@
 # sock-shop_iot_services
 
-GitHub repository for the temperature sensor simulation sensor as well as the iot-handler and a evil iot-handler service. This services are used in combination with the adapted sock-shop environment (https://github.com/IoMiCRA/microservices-demo).
+GitHub repository for the temperature sensor simulation sensor as well as the iot-handler and a evil iot-handler service. This services are used in combination with the adapted sock-shop environment (https://anonymous.4open.science/r/microservice-demo-EDFC/).
 
 Thge docker container can be built with the following commands from the base directory:
 ```
